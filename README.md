@@ -8,7 +8,7 @@ This program allows you to download the information of the movies in IMDb into t
 - datetime
 - concurrent.futures
 
-if not exists this modules you have to install this modules,
+if not exists modules you have to install this modules,
 - pip3 install requests
 - pip3 install beautifulsoup4
 # Help Me
