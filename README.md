@@ -1,5 +1,9 @@
-# imdb_downloader
+# imdbdownloader.py
 This program allows you to download the information of the movies in IMDb into the database.
+
+# imdb.db
+If you don't want to wait, you can use the ready database.
+
 # Builth With
 - Python 3.10 
 - requests
